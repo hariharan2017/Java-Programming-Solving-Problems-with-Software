@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=example3
+comment1.params=parser
+comment1.target=double\ getColdestInDay(org.apache.commons.csv.CSVParser)
+comment2.params=parser1\ parser2
+comment2.target=void\ printColdestInDayTime(org.apache.commons.csv.CSVParser,\ org.apache.commons.csv.CSVParser)
+comment3.params=
+comment3.target=void\ filesWithColdestTemp()
+comment4.params=parser
+comment4.target=double\ getLowHumidInDay(org.apache.commons.csv.CSVParser)
+comment5.params=
+comment5.target=void\ filesWithLowestHumid()
+comment6.params=parser
+comment6.target=void\ avgTempinFile(org.apache.commons.csv.CSVParser)
+comment7.params=
+comment7.target=void\ test()
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=example2
+comment1.params=parser\ item
+comment1.target=void\ testParsing(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment2.params=parser\ countryin
+comment2.target=void\ countryInfo(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment3.params=parser\ export1\ export2
+comment3.target=void\ twoExport(org.apache.commons.csv.CSVParser,\ java.lang.String,\ java.lang.String)
+comment4.params=parser\ exportItem
+comment4.target=void\ noExport(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment5.params=parser\ moneyItem
+comment5.target=void\ getMoney(org.apache.commons.csv.CSVParser,\ java.lang.String)
+comment6.params=
+comment6.target=void\ test()
+numComments=7
